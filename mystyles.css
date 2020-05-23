@@ -292,6 +292,14 @@ body {
   padding: 0.5vw;
 }
 
+.soc {
+  color: #282828;
+}
+
+.soc:hover {
+  color: lightSeaGreen;
+}
+
 /* Form style */
 
 #my_form {

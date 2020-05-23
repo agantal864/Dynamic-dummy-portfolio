@@ -10,10 +10,10 @@
        </div>
        <div class="row">
            <div class="col-12 contact-details" style="border-bottom: 2px solid lightSeaGreen;">
-               <i class="fab fa-facebook fa-2x"></i>
-               <i class="fab fa-instagram fa-2x"></i>
-               <i class="fab fa-twitter fa-2x"></i>
-               <i class="fab fa-github fa-2x"></i>
+              <a class="soc" href="https://www.facebook.com/azis.agantal"><i class="fab fa-facebook fa-2x"></i></a>
+              <a class="soc" href="https://www.instagram.com/azis_agantal/?hl=en"><i class="fab fa-instagram fa-2x"></i></a>
+              <a class="soc" href="https://twitter.com/AgantalAzis"><i class="fab fa-twitter fa-2x"></i></a>
+              <a class="soc" href="https://github.com/agantal864"><i class="fab fa-github fa-2x"></i></a>
            </div>
        </div>
        <div class="row">
