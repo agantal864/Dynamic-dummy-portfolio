@@ -27,10 +27,11 @@
         <a class="navbar-brand animated fadeInLeft delay-1s" data-aos-once="true" href="#homepage" id="font-name">Azis Agantal</a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#nav-menu"><span class="navbar-toggler-icon"></span></button>
         <div class="collapse navbar-collapse" id="nav-menu">
-          <ul class="navbar-nav ml-auto navbar-brand animated fadeIn delay-1s">
+          <ul id="color-active" class="navbar-nav ml-auto navbar-brand animated fadeIn delay-1s">
               <li class="nav-item"><a class="nav-link" href="index.php"><span class="nav-hover-effect">Home</span></a></li>
               <li class="nav-item"><a class="nav-link" href="index.php #hrefprof"><span class="nav-hover-effect">Profile</span></a></li>
               <li class="nav-item"><a class="nav-link" href="#"><span class="nav-hover-effect">Blog</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="#"><span class="nav-hover-effect">Resume</span></a></li>
               <li class="nav-item"><a class="nav-link" href="contacts.php"><span class="nav-hover-effect">Contact</span></a></li>
           </ul>
         </div>

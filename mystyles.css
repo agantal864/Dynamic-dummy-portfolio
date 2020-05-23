@@ -8,8 +8,6 @@ body {
 }
 /* START OF NAVBAR CSS **/
 #font-name {
-  position: relative;
-  left: 3%;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: 600 ;
   letter-spacing: 3px;
@@ -17,20 +15,20 @@ body {
   padding: 20px;
 }
 
-#logo {
-  position: relative;
-  left: 3%;
-}
-
 .nav-item {
   font-family: 'Julius Sans One', sans-serif;
   font-weight: 600;
-  padding: 20px;
+  padding: 15px;
 }
 
 .nav-hover-effect:hover {
+  color: lightSeaGreen;
   padding-bottom: 10px;
-  border-bottom: 1px solid black;
+  border-bottom: 1.5px solid lightSeaGreen;
+}
+
+.active {
+  color: lightSeaGreen;
 }
 
 @media screen and (min-width: 1920px) {
@@ -49,7 +47,7 @@ body {
   }
   .nav-item {
     position: relative;
-    right: 20%;
+    right: 10%;
     font-family: 'Julius Sans One', sans-serif;
     font-weight: 600;
     padding: 20px;

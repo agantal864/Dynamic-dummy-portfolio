@@ -52,10 +52,14 @@
 
   <div class="container-fluid" id="myexperiences">
       <div class="container" id="mycontainer">
+            <br />
+            <!--Experiences-->
             <div class="row">
                 <div class="col-12 exp"><p class="fonts">EXPERIENCES</p></div>
             </div>
             <br />
+            <!-- Educational Background -->
+
             <div class="container" data-aos="fade-up" id="expcontainer">
                 <div class="row">
                   <div class="col-12 education"><h3 class="fonts">Educational Backround</h3></div>
@@ -100,50 +104,58 @@
                     <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
                   </div>
                 </div>
-
-                <div class="row">
-                  <div class="col-12 education" style="border-top: 2px solid white;"><h3 class="fonts">HONORS & AWARDS</h3></div>
-                </div>
-                <div class="row expr">
-                  <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">University Scholar</p>
-                    <p class="fonts" style="padding: 0.50vw;">1st Semester A.Y 2019-2020</p>
+              </div>
+              <br /><br /><br /><br />
+              <!-- HONORS AND AWARDS -->
+                        <div class="container" data-aos="fade-up" id="expcontainer">
+                            <div class="row">
+                              <div class="col-12 education" ><h3 class="fonts">HONORS & AWARDS</h3></div>
+                            </div>
+                            <div class="row expr">
+                              <div class="col-4 expr-2">
+                                <p class="fonts" style="font-weight: bold;">University Scholar</p>
+                                <p class="fonts" style="padding: 0.50vw;">1st Semester A.Y 2019-2020</p>
+                              </div>
+                              <div class="col 8">
+                                <p class="fonts" style="color: white; font-weight: bold;">University of the Philippines</p>
+                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                              </div>
+                            </div>
+                            <div class="row expr">
+                              <div class="col-4 expr-2">
+                                <p class="fonts" style="font-weight: bold;">Strand Excellence Award</p>
+                                <p class="fonts" style="padding: 0.50vw;">April 2019</p>
+                              </div>
+                              <div class="col 8">
+                                <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
+                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                              </div>
+                            </div>
+                            <div class="row expr">
+                              <div class="col-4 expr-2">
+                                <p class="fonts" style="font-weight: bold;">With High Honors</p>
+                                <p class="fonts" style="padding: 0.50vw;">April 2019</p>
+                              </div>
+                              <div class="col 8">
+                                <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
+                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                              </div>
+                            </div>
+                            <div class="row expr">
+                              <div class="col-4 expr-2">
+                                <p class="fonts" style="font-weight: bold;">Christopher Clavius Award</p>
+                                <p class="fonts" style="padding: 0.50vw;">Septemer 2018 & February 2019</p>
+                              </div>
+                              <div class="col 8">
+                                <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
+                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                              </div>
+                            </div>
+                          </div>
+                  <!--Skills-->
+                  <div class="row">
+                      <div class="col-12 exp"><p class="fonts">SKILLS</p></div>
                   </div>
-                  <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">University of the Philippines</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
-                  </div>
-                </div>
-                <div class="row expr">
-                  <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">Strand Excellence Award</p>
-                    <p class="fonts" style="padding: 0.50vw;">April 2019</p>
-                  </div>
-                  <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
-                  </div>
-                </div>
-                <div class="row expr">
-                  <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">With High Honors</p>
-                    <p class="fonts" style="padding: 0.50vw;">April 2019</p>
-                  </div>
-                  <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
-                  </div>
-                </div>
-                <div class="row expr">
-                  <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">Christopher Clavius Award</p>
-                    <p class="fonts" style="padding: 0.50vw;">Septemer 2018 & February 2019</p>
-                  </div>
-                  <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
-                  </div>
-                </div>
             </div>
         </div>
      </div>
