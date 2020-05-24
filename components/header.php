@@ -36,7 +36,7 @@
           <ul id="color-active" class="navbar-nav ml-auto navbar-brand animated fadeIn delay-1s">
               <li class="nav-item"><a class="nav-link" href="index.php"><span class="nav-hover-effect">Home</span></a></li>
               <li class="nav-item"><a class="nav-link" href="index.php #hrefprof"><span class="nav-hover-effect">Profile</span></a></li>
-              <li class="nav-item"><a class="nav-link" href="#"><span class="nav-hover-effect">Blog</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="blog.php"><span class="nav-hover-effect">Blog</span></a></li>
               <li class="nav-item"><a class="nav-link" href="#"><span class="nav-hover-effect">Resume</span></a></li>
               <li class="nav-item"><a class="nav-link" href="contacts.php"><span class="nav-hover-effect">Contact</span></a></li>
           </ul>
