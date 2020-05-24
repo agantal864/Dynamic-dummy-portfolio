@@ -61,18 +61,18 @@
           $subject = mysqli_real_escape_string($connect, $_POST['subject']);
           $message = mysqli_real_escape_string($connect, $_POST['message']);
 
-        //save to sql
+          //save to sql
           $sql = "INSERT INTO contact_info(First_Name, Last_Name, Email, Phone_Number, Subject, Message) VALUES('$first_name', '$last_name', '$email', '$phone_number', '$subject', '$message')";
 
           if(mysqli_query($connect, $sql)) {
-              //Success
+              //Success - Clear form after submit
               $first_name = '';
               $last_name = '';
               $email = '';
               $phone_number = '';
               $subject = '';
               $message = '';
-              
+
               $success = "Your message has been sent!";
           } else {
             echo 'query error'. mysqli_error($connect);
@@ -80,13 +80,7 @@
         }
   }
 
-
  ?>
-
-
-
-
-
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -159,8 +153,9 @@
                   <?php echo $errors['message']; ?>
                 </div>
               </div>
-
               <br />
+              <a class="twitter-follow-button" data-size="medium" data-show-screen-name="true" data-show-count="false" href="https://twitter.com/AgantalAzis">Follow @AgantalAzis</a>  
+              <br /><br />
               <button type="submit" name="submit" class="btn btn-info" onclick="submit()" style="letter-spacing: 0.1em;">Submit</button>
               <p style="display: inline-block; margin-left: 20px;"><?php echo htmlspecialchars($success); ?></p>
               <br /> <br />
@@ -169,5 +164,6 @@
          </form>
        </div>
         <br/><br/><br/><br/>
+
        <?php include("components/footer.php"); ?>
 </html>

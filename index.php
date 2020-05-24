@@ -152,13 +152,214 @@
                               </div>
                             </div>
                           </div>
-                  <!--Skills-->
-                  <div class="row">
-                      <div class="col-12 exp"><p class="fonts">SKILLS</p></div>
-                  </div>
             </div>
         </div>
-     </div>
+
+
+
+        <div class="jumbotron jumbotron-fluid" data-aos="fade" id="skills">
+            <div class="container">
+              <br /><br />
+                <div class="row">
+                    <div class="col-12 skl"><p class="fonts">SKILLS</p></div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size center-pic" src="assets/logos/html.png" alt="html5">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">HTML 5</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/css3.jpg" alt="css3">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">CSS 3</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/javascript.png" alt="js">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">JAVASCRIPT</figcaption>
+                      </figure>
+                    </div>
+                </div>
+                <!-- End of 1st row -->
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size center-pic" src="assets/logos/btrsp.png" alt="bootsrap">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">BOOTSRAP</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/sass.jpg" alt="sass">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">SASS</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/jquery.jpg" alt="jquery">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">jQuery</figcaption>
+                      </figure>
+                    </div>
+                </div>
+                <!-- End of 2nd row -->
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size center-pic" src="assets/logos/reactjs.png" alt="react">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">REACT</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/PHP_Logo.png" alt="php">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">PHP</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/sql.jpg" alt="sql">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">MYSQL</figcaption>
+                      </figure>
+                    </div>
+                </div>
+                <!-- End of 3nd row -->
+                <div class="row">
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size center-pic" src="assets/logos/c.jpeg" alt="c">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">C</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/c++.png" alt="c++">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">C++</figcaption>
+                      </figure>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 center-space">
+                      <figure class="img-wrap">
+                          <img class="img-responsive size" src="assets/logos/python.jpg" alt="python">
+                          <div class="img-description stars">
+                            <p class="img-description move">Proficiency&nbsp;:&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="fas fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>&nbsp;
+                              <i class="far fa-star"></i>
+                            </p>
+                          </div>
+                          <figcaption class="caption img-fonts">PYTHON</figcaption>
+                      </figure>
+                    </div>
+                </div>
+            </div>
+            <br /><br />
+        </div>
+
+
 
      <!-- Start of FOOTER -->
          <?php include("components/footer.php"); ?>

@@ -2,25 +2,31 @@
 
 <head>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Add-ons external links -->
+    <!-- Bootsrap -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <link rel="stylesheet" type="text/css" href="mystyles.css">
-  <script src="https://kit.fontawesome.com/e759b02136.js" crossorigin="anonymous"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Icons -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <!-- Animations -->
   <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+  <!-- Built-in external links -->
+    <!-- Mobile responsive -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Standard Character -->
   <meta charset="utf-8">
+    <!-- All CSS -->
+  <link rel="stylesheet" type="text/css" href="mystyles.css">
 
   <title>My Personal Webpage</title>
-
 
 </head>
 
 
 
 <body id="homepage">
-
 
 <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light" id="navbar-style" style="margin:0;">
         <a href="#homepage" id="logo"><img src="assets/logo.svg" class="animated fadeInLeft" alt="logo" height="80" width="60"></a>
