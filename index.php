@@ -66,41 +66,41 @@
                 </div>
                 <div class="row expr">
                   <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">University of the Philippines</p>
+                    <p class="fonts title-style" style="font-weight: bold;">University of the Philippines</p>
                     <p class="fonts" style="padding: 0.50vw;">Aug 2019 - Cont.</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
                     <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
                   </div>
                 </div>
                 <div class="row expr">
                   <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">Ateneo de Davao University</p>
+                    <p class="fonts title-style" style="font-weight: bold;">Ateneo de Davao University</p>
                     <p class="fonts" style="padding: 0.50vw;">June 2017 - March 2019</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
                     <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
                   </div>
                 </div>
                 <div class="row expr">
                   <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">Wisdom Islamic School</p>
+                    <p class="fonts title-style" style="font-weight: bold;">Wisdom Islamic School</p>
                     <p class="fonts" style="padding: 0.50vw;">June 2013 - March 2017</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
                     <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
                   </div>
                 </div>
                 <div class="row expr">
                   <div class="col-4 expr-2">
-                    <p class="fonts" style="font-weight: bold;">Iligan City SPED Center</p>
+                    <p class="fonts title-style" style="font-weight: bold;">Iligan City SPED Center</p>
                     <p class="fonts" style="padding: 0.50vw;">June 2007 - March 2013</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
                     <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
                   </div>
                 </div>
@@ -113,41 +113,41 @@
                             </div>
                             <div class="row expr">
                               <div class="col-4 expr-2">
-                                <p class="fonts" style="font-weight: bold;">University Scholar</p>
+                                <p class="fonts title-style" style="font-weight: bold;">University Scholar</p>
                                 <p class="fonts" style="padding: 0.50vw;">1st Semester A.Y 2019-2020</p>
                               </div>
                               <div class="col 8">
-                                <p class="fonts" style="color: white; font-weight: bold;">University of the Philippines</p>
+                                <p class="fonts title-style" style="color: white; font-weight: bold;">University of the Philippines</p>
                                 <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
                               </div>
                             </div>
                             <div class="row expr">
                               <div class="col-4 expr-2">
-                                <p class="fonts" style="font-weight: bold;">Strand Excellence Award</p>
+                                <p class="fonts title-style" style="font-weight: bold;">Strand Excellence Award</p>
                                 <p class="fonts" style="padding: 0.50vw;">April 2019</p>
                               </div>
                               <div class="col 8">
-                                <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
+                                <p class="fonts title-style" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
                                 <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
                               </div>
                             </div>
                             <div class="row expr">
                               <div class="col-4 expr-2">
-                                <p class="fonts" style="font-weight: bold;">With High Honors</p>
+                                <p class="fonts title-style" style="font-weight: bold;">With High Honors</p>
                                 <p class="fonts" style="padding: 0.50vw;">April 2019</p>
                               </div>
                               <div class="col 8">
-                                <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
+                                <p class="fonts title-style" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
                                 <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
                               </div>
                             </div>
                             <div class="row expr">
                               <div class="col-4 expr-2">
-                                <p class="fonts" style="font-weight: bold;">Christopher Clavius Award</p>
+                                <p class="fonts title-style" style="font-weight: bold;">Christopher Clavius Award</p>
                                 <p class="fonts" style="padding: 0.50vw;">Septemer 2018 & February 2019</p>
                               </div>
                               <div class="col 8">
-                                <p class="fonts" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
+                                <p class="fonts title-style" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
                                 <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
                               </div>
                             </div>
@@ -157,13 +157,52 @@
 
 
 
-        <div class="jumbotron jumbotron-fluid" data-aos="fade" id="skills">
-            <div class="container">
+        <div class="jumbotron jumbotron-fluid" id="skills">
+            <div class="container fonts">
               <br /><br />
                 <div class="row">
-                    <div class="col-12 skl"><p class="fonts">SKILLS</p></div>
+                    <div class="col-12 skl"><p>SKILLS</p></div>
                 </div>
                 <br />
+
+
+                <div class="row">
+                  <div class="col-lg-4 col-sm-12 center-space">
+                          <div id="hover" class="centerize"><i class="fab fa-html5 fa-9x"></i></div>
+                          <div id="stuff" style="padding-left: 10px;"><p class="center">Proficiency</p>
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>
+                        </div>
+                  </div>
+                  <div class="col-lg-4 col-sm-12 center-space">
+                          <div id="hover" class="centerize"><i class="fab fa-html5 fa-9x"></i></div>
+                          <div id="stuff" style="padding-left: 10px;"><p class="center">Proficiency</p>
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>
+                        </div>
+                  </div>
+                  <div class="col-lg-4 col-sm-12 center-space">
+                          <div id="hover" class="centerize"><i class="fab fa-html5 fa-9x"></i></div>
+                          <div id="stuff" style="padding-left: 10px;"><p class="center">Proficiency</p>
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>&nbsp;
+                            <i class="fas fa-star"></i>
+                        </div>
+                  </div>
+                </div>
+
+
+
+                <br />  <br />  <br />  <br />  <br />  <br />  <br />  <br />  <br />  <br />  <br />  <br />
+
                 <div class="row">
                     <div class="col-lg-4 col-sm-12 center-space">
                       <figure class="img-wrap">

@@ -9,11 +9,18 @@
 
 /* START of header CSS **/
 #font-name {
+  position: relative;
+  left: 3%;
   font-family: 'Julius Sans One', sans-serif;
   font-weight: 600 ;
   letter-spacing: 3px;
   color: lightSeaGreen;
   padding: 20px;
+}
+
+#logo {
+  position: relative;
+  left: 3%;
 }
 
 .nav-item {
@@ -72,10 +79,6 @@
   margin-bottom: 20vw;
 }
 
- .fonts {
-   font-family: 'Julius Sans One', sans-serif;
- }
-
 .word {
   color: lightSeaGreen;
 }
@@ -103,7 +106,7 @@
 }
 
 .fonts {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Encode Sans', sans-serif;
 }
 
 .abt {
@@ -215,6 +218,10 @@
   padding-bottom: 4vw;
 }
 
+.title-style {
+  letter-spacing: 0.08em;
+}
+
 .exp {
   padding: 2vw;
   padding-bottom: 0;
@@ -264,9 +271,48 @@
 }
 
 #skills {
-  background: #e1f8e1;
+  background-color: :  linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), gray;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   margin: 0;
   padding: 0;
+}
+
+.fa-html5 {
+    cursor: pointer;
+    color: #fd7e14;
+}
+
+.row-1 {
+position: relative;
+left: 6%;
+
+}
+
+#stuff {
+    position: relative;
+    top: 100%;
+    right: 38%;
+    opacity: 0.0;
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+
+#hover:hover + #stuff {
+    opacity: 1.0;
+}
+
+.centerize::before {
+  position: relative;
+  left: 30%;
 }
 
 .size {
@@ -299,7 +345,7 @@
 
 .img-fonts {
   cursor: pointer;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Encode Sans', sans-serif;
   color: #5a5a5a;
   font-weight: 600;
   letter-spacing: 0.05em;
@@ -406,9 +452,22 @@
   color: #282828;
 }
 
-.soc:hover {
-  color: lightSeaGreen;
+.soc-1:hover {
+  color: #3b5998;
 }
+
+.soc-2:hover {
+  color: #dc3545;;
+}
+
+.soc-3:hover {
+  color: #00acee;
+}
+
+.soc-4:hover {
+  color: #AD5C51;
+}
+
 /* END of footer CSS */
 
 /* START of Form CSS (Contacts.php) */
