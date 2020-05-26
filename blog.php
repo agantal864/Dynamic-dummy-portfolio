@@ -1,41 +1,17 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href="https://fonts.googleapis.com/css2?family=Mukta&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/7fdbebfde3.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="blogstyles.css">
+  <?php include('blog-header.php'); ?>
 
-  <title></title>
-  </head>
-  <body>
-
-    <header>
-      <a href="blog.php"><img class="img-responsive logo" src="assets/logo_blog.png" alt="pudge"></a>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <button class="navbar-toggler ml-auto" data-toggle="collapse" data-target="#menu"><span class="navbar-toggler-icon"></span></button>
-        <div class="collapse navbar-collapse" id="menu">
-          <ul class="navbar-nav mx-auto fonts">
-            <li class="nav-item"><a class="nav-link" href="blog.php">Home</a></li>
-            <li class="nav-item"><a class="nav-link" href="">Browse</a></li>
-            <li class="nav-item"><a class="nav-link" href="index.php">Main</a></li>
-          </ul>
-        </div>
-      </nav>
-    </header>
 
     <div class="container-fluid" id="bg-1">
         <div class="container">
               <div class="row">
                    <div class="col-6 mx-auto">
                      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-                      <h3 class="main-text" style="text-align: center;">Hook Them</h3>
+                      <h3 class="main-text white" style="text-align: center;">Hook Them</h3>
                       <br />
-                      <p class="main-desc">On your Way to Better Gaming</p>
+                      <p class="main-desc white">On your Way to Better Gaming</p>
                      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
                    </div>
               </div>
@@ -43,15 +19,14 @@
         <div class="container-fluid main-more-info">
           <div class="container">
             <div class="row">
-              <div class="col-12 center" id="intro">
-                  <br /><br /><br /><br />
-                  <p class="text-center fonts" style="margin: 0;">Welcome to Hook Them, the leading dota news for every gamer. I offer high-quality, innovative and exclusive content created by and for the passionate gaming community. Explore my site for news updates, helpful guides, reviews of recent releases and much more that will take your experience to a new level.</p>
-              </div>
-              <div class="col-12 center">
-                  <br /><br /><br /><br /><br /><br />
-                  <button type="button" class="btn btn-danger text-center fonts">Get in Touch</button>
-              </div>
+              <div class="col-12 center blog-subhead" id="intro">
+                  <br />
+                  <h6 class="text-center" style="color: gray;">Welcome to Hook Them, the leading dota news for every gamer. I offer high-quality, innovative and exclusive content created by and for the passionate gaming community. Explore my site for news updates, helpful guides, reviews of recent releases and much more that will take your experience to a new level.</h6>
+                  <br />
+                  <button type="button" class="btn btn-danger text-center fonts gray"><a href="#heading">Get in Touch</a></button>
+                </div>
             </div>
+            <br />
           </div>
         </div>
     </div>
@@ -61,22 +36,28 @@
             <br /><br /><br /><br />
             <div class="row">
                 <div class="col-12">
-                      <h1 class="text-center gray" id="heading">In the News</h1>
+                      <h1 class="text-center white" id="heading">In the News</h1>
                 </div>
             </div>
             <br />
             <div class="row">
                 <div class="col-12">
-                      <p class="text-center gray">I always try to be one of the first to hear about the latest developments and news within the gaming community. I carefully curate articles that will provide all the information you need to stay in the know. Check out the articles below, and come back often for updates.</p>
+                      <h6 class="text-center gray">I always try to be one of the first to hear about the latest developments and news within the gaming community. I carefully curate articles that will provide all the information you need to stay in the know. Check out the articles below, and come back often for updates.</h6>
                 </div>
             </div>]
             <br />
             <div class="row">
                 <div class="col-12 center">
-                      <button type="button" class="btn btn-dark text-center fonts gray">Browse</button>
+                      <button type="button" class="btn btn-dark text-center fonts gray"><a href="browseblogs.php">Browse</a></button>
                 </div>
             </div>
-            <br /><br /><br /><br />
+            <br /><br /></br>
+            <div class="row">
+              <div class="col-12">
+                    <h2 class="text-center white" id="heading">Top News</h2>
+              </div>
+            </div>
+            <br />
             <div class="row">
               <div class="col-6 mx-auto center">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -88,13 +69,18 @@
 
                   <div class="carousel-inner">
                     <div class="carousel-item active img-fluid">
-                      <img class="d-block w-100" src="assets/bg2.jpg" alt="First slide">
+                      <div class="d-block w-100 blur"  style="cursor: pointer;"></div>
+                      <div class="carousel-caption d-none d-md-block img-font white">
+                          <h3 style="margin: 0 !important;">TNC Predator Bagged a Win in China</h3>
+                          <p>Feb 05, 2020</p>
+                          <h6 class="gray">A win from TNC Predator, beating Vici Gaming in the Grand Finals with a strong 3-1 win in the series. They took home $135,000 USD kicking off 2020.</h6>
+                      </div>
                     </div>
                     <div class="carousel-item img-fluid">
-                      <img class="d-block w-100" src="assets/bg8.jpg" alt="Second slide">
+                      <img class="d-block w-100 blur" src="assets/bg8.jpg" alt="Second slide">
                     </div>
                     <div class="carousel-item img-fluid">
-                      <img class="d-block w-100" src="assets/pink.jpg" alt="Third slide">
+                      <img class="d-block w-100 blur" src="assets/pink.jpg" alt="Third slide">
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -123,7 +109,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-12 center white">
+            <div class="col-12 center gray">
                <p style="padding: 0.5vw; font-size: 0.9rem;">&copy; Azis Agantal. Hook Them. All rights reserved.</p>
             </div>
           </div>

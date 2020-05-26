@@ -39,3 +39,57 @@
     };
     return t;
   }(document, "script", "twitter-wjs"));
+
+
+//hover animation for skills logo
+  $('#html')[0].onmouseover = function() {
+    $('#html-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#html')[0].onmouseout = function() {
+    $('#html-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
+  $('#css')[0].onmouseover = function() {
+    $('#css-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#css')[0].onmouseout = function() {
+    $('#css-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
+  $('#jscript')[0].onmouseover = function() {
+    $('#jscript-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#jscript')[0].onmouseout = function() {
+    $('#jscript-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
+  $('#react')[0].onmouseover = function() {
+    $('#react-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#react')[0].onmouseout = function() {
+    $('#react-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
+  $('#php')[0].onmouseover = function() {
+    $('#php-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#php')[0].onmouseout = function() {
+    $('#php-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
+  $('#sql')[0].onmouseover = function() {
+    $('#sql-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#sql')[0].onmouseout = function() {
+    $('#sql-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
+//change button Name
+var x = $('#collapse-button');
+x[0].onclick = function () {
+  if(x.html() == 'Show more &nbsp;&nbsp;<i class="fas fa-angle-down" aria-hidden="true"></i>') {
+      x.html('Show less &nbsp;&nbsp;<i class="fas fa-angle-up" aria-hidden="true"></i>');
+  } else {
+      x.html('Show more &nbsp;&nbsp;<i class="fas fa-angle-down" aria-hidden="true"></i>');
+  }
+}

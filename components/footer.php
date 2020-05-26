@@ -1,5 +1,5 @@
 
-  <footer class="container-fluid" style="background: lightgray;" id="end">
+  <footer class="container-fluid" style="background-image: linear-gradient(#ddd6f3, #faaca8);   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
      <div class="container">
          <div class="row">
              <div class="col-12 contact"><h3 class="fonts">GET IN TOUCH</h3></div>
@@ -22,6 +22,7 @@
          </div>
      </div>
   </footer>
+
 
   <!-- Javascript external files and libraries -->
     <!-- Javascript for animation -->

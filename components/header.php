@@ -22,7 +22,7 @@
   <link rel="stylesheet" type="text/css" href="mystyles.css">
 
   <title>My Personal Webpage</title>
-
+  
 </head>
 
 
