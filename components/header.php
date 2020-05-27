@@ -22,12 +22,12 @@
   <link rel="stylesheet" type="text/css" href="mystyles.css">
 
   <title>My Personal Webpage</title>
-  
+
 </head>
 
 
 
-<body id="homepage">
+<body id="homepage" style="scroll-behavior: smooth;">
 
 <nav class="navbar navbar-expand-lg sticky-top navbar-light bg-light" id="navbar-style" style="margin:0;">
         <a href="#homepage" id="logo"><img src="assets/logo.svg" class="animated fadeInLeft" alt="logo" height="80" width="60"></a>
@@ -36,7 +36,7 @@
         <div class="collapse navbar-collapse" id="nav-menu">
           <ul id="color-active" class="navbar-nav ml-auto navbar-brand animated fadeIn delay-1s">
               <li class="nav-item"><a class="nav-link" href="index.php" id="main-home"><span class="nav-hover-effect">Home</span></a></li>
-              <li class="nav-item"><a class="nav-link" href="index.php #hrefprof"><span class="nav-hover-effect">Profile</span></a></li>
+              <li class="nav-item"><a data-scroll class="nav-link" href="index.php #hrefprof"><span class="nav-hover-effect">Profile</span></a></li>
               <li class="nav-item"><a class="nav-link" href="blog.php"><span class="nav-hover-effect">Blog</span></a></li>
               <li class="nav-item"><a class="nav-link" href="#"><span class="nav-hover-effect">Resume</span></a></li>
               <li class="nav-item"><a class="nav-link" href="contacts.php"><span class="nav-hover-effect">Contact</span></a></li>

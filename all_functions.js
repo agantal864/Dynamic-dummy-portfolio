@@ -41,6 +41,10 @@
   }(document, "script", "twitter-wjs"));
 
 
+  $('a').on('click', function(e) {
+    console.log(this.hash);
+  });
+
 //hover animation for skills logo
   $('#html')[0].onmouseover = function() {
     $('#html-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
@@ -83,6 +87,28 @@
   $('#sql')[0].onmouseout = function() {
     $('#sql-prof i').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
   }
+
+
+
+  $('#bootstrap')[0].onmouseover = function() {
+    $('#bootstrap-prof p').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#sass')[0].onmouseover = function() {
+    $('#sass-prof p').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#jquery')[0].onmouseover = function() {
+    $('#jquery-prof p').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#c')[0].onmouseover = function() {
+    $('#c-prof p').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#cplus')[0].onmouseover = function() {
+    $('#cplus-prof p').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+  $('#python')[0].onmouseover = function() {
+    $('#python-prof p').toggleClass("animated zoomIn").attr("data-aos-duration", "700");
+  }
+
 
 //change button Name
 var x = $('#collapse-button');

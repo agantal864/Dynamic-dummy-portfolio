@@ -10,7 +10,7 @@
 
 <title></title>
 </head>
-<body>
+<body style="scroll-behavior: smooth;">
 
   <header>
     <a href="blog.php"><img class="img-responsive logo" src="assets/logo_blog.png" alt="pudge"></a>

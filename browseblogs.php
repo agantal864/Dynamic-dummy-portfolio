@@ -7,12 +7,12 @@
           <br /><br /><br /><br /> <br /><br />
           <div class="row">
               <div class="col-7 mx-auto center box" style="border-bottom: 0; padding: 0;">
-                  <img class="img-responsive sub-img" src="assets/tnc.jpg" alt="tnc">
+                  <a class="removestyle "href="1stblog.php"><img class="img-responsive sub-img" src="assets/tnc.jpg" alt="tnc"></a>
               </div>
           </div>
           <div class="row">
               <div class="col-7 mx-auto center box blog-subhead">
-                    <a  href="1stblog.php"><h1 class="white">TNC Predator Bagged<br/> a Win in China</h1></a>
+                    <a href="1stblog.php"><h1 class="white headline-hover">TNC Predator Bagged<br/> a Win in China</h1></a>
                     <p>Feb 6, 2020</p>
                     <h6>A win from TNC Predator, beating Vici Gaming in the Grand Finals  with a strong <br /> 3-1 win in the series. They took home $135,000 USD kicking off 2020.</h6>
               </div>
@@ -53,7 +53,7 @@
     </div>
 
 
-
+    <?php include('components/scripts.php') ?>
 
 
 

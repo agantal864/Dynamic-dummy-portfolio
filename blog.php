@@ -23,7 +23,7 @@
                   <br />
                   <h6 class="text-center" style="color: gray;">Welcome to Hook Them, the leading dota news for every gamer. I offer high-quality, innovative and exclusive content created by and for the passionate gaming community. Explore my site for news updates, helpful guides, reviews of recent releases and much more that will take your experience to a new level.</h6>
                   <br />
-                  <button type="button" class="btn btn-danger text-center fonts gray"><a href="#heading">Get in Touch</a></button>
+                  <button type="button" class="btn btn-danger text-center fonts gray" id='tester'><a data-scroll href="#heading">Get in Touch</a></button>
                 </div>
             </div>
             <br />
@@ -54,7 +54,7 @@
             <br /><br /></br>
             <div class="row">
               <div class="col-12">
-                    <h2 class="text-center white" id="heading">Top News</h2>
+                    <h2 class="text-center white" id="heading" >Top News</h2>
               </div>
             </div>
             <br />
@@ -69,9 +69,9 @@
 
                   <div class="carousel-inner">
                     <div class="carousel-item active img-fluid">
-                      <div class="d-block w-100 blur"  style="cursor: pointer;"></div>
+                      <a class="removestyles" href="1stblog.php"><div class="d-block w-100 blur"  style="cursor: pointer;"></div></a>
                       <div class="carousel-caption d-none d-md-block img-font white">
-                          <h3 style="margin: 0 !important;">TNC Predator Bagged a Win in China</h3>
+                          <a class="removestyles" href="1stblog.php"><h3 style="margin: 0 !important;"class="headline-hover">TNC Predator Bagged a Win in China</h3></a>
                           <p>Feb 05, 2020</p>
                           <h6 class="gray">A win from TNC Predator, beating Vici Gaming in the Grand Finals with a strong 3-1 win in the series. They took home $135,000 USD kicking off 2020.</h6>
                       </div>
@@ -127,12 +127,12 @@
       </div>
     </div>
 
+    <script type="text/javascript">
+        var scroll = new SmoothScroll('a[href*="#heading"]');
+    </script>
+
+    <?php include('components/scripts.php') ?>
 
 
-
-
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
   </body>
 </html>

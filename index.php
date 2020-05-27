@@ -240,8 +240,8 @@
                           <div class="row">
                               <div class="col-lg-4 col-sm-12 center-space">
                                 <figure class="img-wrap">
-                                    <img class="img-responsive size center-pic" src="assets/logos/btrsp.png" alt="bootsrap">
-                                    <div class="img-description stars">
+                                    <img class="img-responsive size center-pic" id="bootstrap" src="assets/logos/btrsp.png" alt="bootsrap">
+                                    <div class="img-description stars" id="bootstrap-prof">
                                       <p class="img-description move">Proficiency&nbsp;:&nbsp;
                                         <i class="fas fa-star"></i>&nbsp;
                                         <i class="fas fa-star"></i>&nbsp;
@@ -250,13 +250,13 @@
                                         <i class="far fa-star"></i>
                                       </p>
                                     </div>
-                                    <figcaption class="caption img-fonts">BOOTSRAP</figcaption>
+                                    <figcaption class="caption img-fonts">BOOTSTRAP</figcaption>
                                 </figure>
                               </div>
                               <div class="col-lg-4 col-sm-12 center-space">
                                 <figure class="img-wrap">
-                                    <img class="img-responsive size" src="assets/logos/sass.jpg" alt="sass">
-                                    <div class="img-description stars">
+                                    <img class="img-responsive size" id="sass" src="assets/logos/sass.jpg" alt="sass">
+                                    <div class="img-description stars" id="sass-prof">
                                       <p class="img-description move">Proficiency&nbsp;:&nbsp;
                                         <i class="fas fa-star"></i>&nbsp;
                                         <i class="far fa-star"></i>&nbsp;
@@ -270,8 +270,8 @@
                               </div>
                               <div class="col-lg-4 col-sm-12 center-space">
                                 <figure class="img-wrap">
-                                    <img class="img-responsive size" src="assets/logos/jquery.jpg" alt="jquery">
-                                    <div class="img-description stars">
+                                    <img class="img-responsive size" id="jquery" src="assets/logos/jquery.jpg" alt="jquery">
+                                    <div class="img-description stars" id="jquery-prof">
                                       <p class="img-description move">Proficiency&nbsp;:&nbsp;
                                         <i class="fas fa-star"></i>&nbsp;
                                         <i class="fas fa-star"></i>&nbsp;
@@ -288,8 +288,8 @@
                                       <div class="row">
                                           <div class="col-lg-4 col-sm-12 center-space">
                                             <figure class="img-wrap">
-                                                <img class="img-responsive size center-pic" src="assets/logos/c.jpeg" alt="c">
-                                                <div class="img-description stars">
+                                                <img class="img-responsive size center-pic" id="c" src="assets/logos/c.jpeg" alt="c">
+                                                <div class="img-description stars" id="c-prof">
                                                   <p class="img-description move">Proficiency&nbsp;:&nbsp;
                                                     <i class="fas fa-star"></i>&nbsp;
                                                     <i class="fas fa-star"></i>&nbsp;
@@ -303,8 +303,8 @@
                                           </div>
                                           <div class="col-lg-4 col-sm-12 center-space">
                                             <figure class="img-wrap">
-                                                <img class="img-responsive size" src="assets/logos/c++.png" alt="c++">
-                                                <div class="img-description stars">
+                                                <img class="img-responsive size" id="cplus" alt=""src="assets/logos/c++.png" alt="c++">
+                                                <div class="img-description stars" id="cplus-prof">
                                                   <p class="img-description move">Proficiency&nbsp;:&nbsp;
                                                     <i class="fas fa-star"></i>&nbsp;
                                                     <i class="fas fa-star"></i>&nbsp;
@@ -318,8 +318,8 @@
                                           </div>
                                           <div class="col-lg-4 col-sm-12 center-space">
                                             <figure class="img-wrap">
-                                                <img class="img-responsive size" src="assets/logos/python.jpg" alt="python">
-                                                <div class="img-description stars">
+                                                <img class="img-responsive size" id="python" src="assets/logos/python.jpg" alt="python">
+                                                <div class="img-description stars" id="python-prof">
                                                   <p class="img-description move">Proficiency&nbsp;:&nbsp;
                                                     <i class="fas fa-star"></i>&nbsp;
                                                     <i class="fas fa-star"></i>&nbsp;
@@ -350,9 +350,6 @@
 
               </div>
           </div>
-
-
-
 
 
 

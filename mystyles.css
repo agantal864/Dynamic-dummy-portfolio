@@ -1,3 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
+
+
 #homepage {
   background-image: url(assets/bg8.jpg);
   background-position: center center;

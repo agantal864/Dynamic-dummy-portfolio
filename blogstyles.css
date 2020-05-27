@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 header {
   padding-top: 15px;
   text-align: center;
@@ -175,6 +179,15 @@ button a:hover {
 .sub-img {
   width: 100%;
   border-radius: 10px;
+  cursor: pointer;
+}
+
+.removestyle {
+  width: 100%;
+}
+
+.headline-hover:hover {
+  color: #aeaeae;
 }
 
 .box {
@@ -188,13 +201,24 @@ button a:hover {
   padding: 15px;
 }
 
-.blog-subhead a{
+.blog-subhead a, .removestyles{
   color: inherit;
   text-decoration: none;
 }
 
-.blog-subhead a:hover {
+.blog-subhead a:hover, .removestyles:hover {
    color: inherit;
+   text-decoration: none;
+   cursor:pointer;
+}
+
+a.return {
+  color: white;
+  text-decoration: none;
+}
+
+a.return:hover {
+   color: lightgray;
    text-decoration: none;
    cursor:pointer;
 }
@@ -207,8 +231,38 @@ button a:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.blog-box-2 {
+    padding: 0px 100px 80px 100px;
+    background-color: white;
+    border-width: 1px;
+    border-color: #bfbfbf;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .sub-img-blog {
   width: 100%;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.share {
+  padding: 10px;
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+}
+
+.share i{
+  padding-right: 10px;
+}
+
+.left {
+  float: right;
+}
+
+.icon {
+  color: darkgray;
+}
+
+.icon:hover {
+  color: #007bff;
 }

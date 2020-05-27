@@ -35,7 +35,11 @@
   <script src="https://kit.fontawesome.com/e759b02136.js" crossorigin="anonymous"></script>
     <!-- Bootsrap Library -->
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <!-- Scroll animation -->
+  <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
     <!-- Built in script functions -->
   <script type="text/javascript" src="all_functions.js"></script>
+
+
 
 </body>

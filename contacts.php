@@ -52,7 +52,7 @@
 
         //connect to database
         if(array_filter($errors)) {
-          //No error
+          //error
         } else {
           $first_name = mysqli_real_escape_string($connect, $_POST['first_name']);
           $last_name = mysqli_real_escape_string($connect, $_POST['last_name']);
@@ -88,7 +88,7 @@
        <?php include("components/header.php"); ?>
        <br /><br /><br />
        <div class="container" id="my_form" data-aos="fade-up">
-         <form id="myForm" action="contacts.php" method="post">
+         <form id="myForm" action="contacts.php #sent" method="post">
 
               <fieldset>
                 <legend>Contact Info</legend>
@@ -127,7 +127,7 @@
                   </div>
                   <div class="col">
                     <label for="phone_number">Phone number</label>
-                    <input name = "phone_number" type="telephone" class="form-control" autocomplete="off" minlength="10" maxlength="10" placeholder="Enter your phone number" value= "<?php echo htmlspecialchars($phone_number); ?>">
+                    <input name = "phone_number" type="telephone" class="form-control" autocomplete="off" minlength="10" maxlength="13" placeholder="Enter your phone number" value= "<?php echo htmlspecialchars($phone_number); ?>">
                     <div class="text-danger">
                       <?php echo $errors['phone_number']; ?>
                     </div>
@@ -154,10 +154,10 @@
                 </div>
               </div>
               <br />
-              <a class="twitter-follow-button" data-size="medium" data-show-screen-name="true" data-show-count="false" href="https://twitter.com/AgantalAzis">Follow @AgantalAzis</a>  
+              <a class="twitter-follow-button" data-size="medium" data-show-screen-name="true" data-show-count="false" href="https://twitter.com/AgantalAzis">Follow @AgantalAzis</a>
               <br /><br />
               <button type="submit" name="submit" class="btn btn-info" onclick="submit()" style="letter-spacing: 0.1em;">Submit</button>
-              <p style="display: inline-block; margin-left: 20px;"><?php echo htmlspecialchars($success); ?></p>
+              <p id="sent" style="display: inline-block; margin-left: 20px;"><?php echo htmlspecialchars($success); ?></p>
               <br /> <br />
             </fieldset>
 
