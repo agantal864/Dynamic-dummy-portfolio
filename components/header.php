@@ -38,7 +38,7 @@
               <li class="nav-item"><a class="nav-link" href="index.php" id="main-home"><span class="nav-hover-effect">Home</span></a></li>
               <li class="nav-item"><a data-scroll class="nav-link" href="index.php #hrefprof"><span class="nav-hover-effect">Profile</span></a></li>
               <li class="nav-item"><a class="nav-link" href="blog.php"><span class="nav-hover-effect">Blog</span></a></li>
-              <li class="nav-item"><a class="nav-link" href="#"><span class="nav-hover-effect">Resume</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="myfile/myresume.pdf"><span class="nav-hover-effect">Resume</span></a></li>
               <li class="nav-item"><a class="nav-link" href="contacts.php"><span class="nav-hover-effect">Contact</span></a></li>
           </ul>
         </div>

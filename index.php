@@ -37,14 +37,15 @@
                   <p class="fonts">Abdul Azis M. Agantal</p>
                   <p class="details-bold fonts">Age:</p>
                   <p class="fonts">19 years</p>
-                  <p class="details-bold fonts">Religion:</p>
-                  <p class="fonts">Islam</p>
+                  <p class="details-bold fonts">Email:</p>
+                  <p class="fonts">aamagantal@gmail.com</p>
               </div>
               <div class="col-3 my-details-2">
                   <p class="details-bold fonts">Address:</p>
                   <p class="fonts">Lot 7, Block 30, Victor's Estate, Tigatto, Buhangin, Davao City 8000</p>
-                  <p class="details-bold fonts">Civil Status:</p>
-                  <p class="fonts">Single</p>
+                  <p class="details-bold fonts">Telephone Number:</p>
+                  <p class="fonts">+639454223767</p>
+                  <p class="fonts">(082) 233-2186</p>
               </div>
           </div>
       </div>
@@ -67,7 +68,17 @@
                 <div class="row expr">
                   <div class="col-4 expr-2">
                     <p class="fonts title-style" style="font-weight: bold;">University of the Philippines</p>
-                    <p class="fonts" style="padding: 0.50vw;">Aug 2019 - Cont.</p>
+                    <p class="fonts" style="padding: 0.50vw;">Aug 2019 - Present</p>
+                  </div>
+                  <div class="col 8">
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
+                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
+                  </div>
+                </div>
+                <div class="row expr">
+                  <div class="col-4 expr-2">
+                    <p class="fonts title-style" style="font-weight: bold;">edX - HarvardX</p>
+                    <p class="fonts" style="padding: 0.50vw;">May 2020 - Present</p>
                   </div>
                   <div class="col 8">
                     <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
@@ -84,26 +95,7 @@
                     <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
                   </div>
                 </div>
-                <div class="row expr">
-                  <div class="col-4 expr-2">
-                    <p class="fonts title-style" style="font-weight: bold;">Wisdom Islamic School</p>
-                    <p class="fonts" style="padding: 0.50vw;">June 2013 - March 2017</p>
-                  </div>
-                  <div class="col 8">
-                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
-                  </div>
-                </div>
-                <div class="row expr">
-                  <div class="col-4 expr-2">
-                    <p class="fonts title-style" style="font-weight: bold;">Iligan City SPED Center</p>
-                    <p class="fonts" style="padding: 0.50vw;">June 2007 - March 2013</p>
-                  </div>
-                  <div class="col 8">
-                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
-                  </div>
-                </div>
+
               </div>
               <br /><br /><br /><br />
               <!-- HONORS AND AWARDS -->
@@ -124,16 +116,6 @@
                             <div class="row expr">
                               <div class="col-4 expr-2">
                                 <p class="fonts title-style" style="font-weight: bold;">Strand Excellence Award</p>
-                                <p class="fonts" style="padding: 0.50vw;">April 2019</p>
-                              </div>
-                              <div class="col 8">
-                                <p class="fonts title-style" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
-                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
-                              </div>
-                            </div>
-                            <div class="row expr">
-                              <div class="col-4 expr-2">
-                                <p class="fonts title-style" style="font-weight: bold;">With High Honors</p>
                                 <p class="fonts" style="padding: 0.50vw;">April 2019</p>
                               </div>
                               <div class="col 8">
