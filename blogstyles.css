@@ -41,6 +41,14 @@ a.nav-link {
     background-size: cover;
 }
 
+.blur-1 {
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ), url(assets/bp.jpg);
+    background-size: cover;
+}
+
 #bg-1 {
   background-image: linear-gradient(
       rgba(0, 0, 0, 0.5),
@@ -174,7 +182,6 @@ button a:hover {
   background-attachment: fixed;
   background-size: cover;
   padding: 0;
-  border-radius: 10px;
 }
 
 .sub-img {
@@ -214,12 +221,12 @@ button a:hover {
 }
 
 a.return {
-  color: white;
+  color: #c6c6c6;
   text-decoration: none;
 }
 
 a.return:hover {
-   color: lightgray;
+   color: white;
    text-decoration: none;
    cursor:pointer;
 }

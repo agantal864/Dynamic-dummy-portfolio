@@ -21,7 +21,7 @@
             <div class="row">
               <div class="col-12 center blog-subhead" id="intro">
                   <br />
-                  <h6 class="text-center" style="color: gray;">Welcome to Hook Them, the leading dota news for every gamer. I offer high-quality, innovative and exclusive content created by and for the passionate gaming community. Explore my site for news updates, helpful guides, reviews of recent releases and much more that will take your experience to a new level.</h6>
+                  <h6 class="text-center" style="color: gray;">Welcome to Hook Them, my personal blog about the exciting Dota 2 community. I will try to offer an exceptional and exclusive content for the passionate gamers. You can explore my site for dota updates, some recent guides, or patch releases, and much more that will take your experience to a new level. Joke</h6>
                   <br />
                   <button type="button" class="btn btn-danger text-center fonts gray" id='tester'><a data-scroll href="#heading">Get in Touch</a></button>
                 </div>
@@ -42,7 +42,7 @@
             <br />
             <div class="row">
                 <div class="col-12">
-                      <h6 class="text-center gray">I always try to be one of the first to hear about the latest developments and news within the gaming community. I carefully curate articles that will provide all the information you need to stay in the know. Check out the articles below, and come back often for updates.</h6>
+                      <h6 class="text-center gray">I always try to hear more about the latest updates and news within the dota community. I create blogs that will provide accurate information you need to stay in the know. Check out my blogs below, and come back often for updates.</h6>
                 </div>
             </div>]
             <br />
@@ -64,23 +64,25 @@
                   <ol class="carousel-indicators">
                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                   </ol>
 
                   <div class="carousel-inner">
                     <div class="carousel-item active img-fluid">
                       <a class="removestyles" href="1stblog.php"><div class="d-block w-100 blur"  style="cursor: pointer;"></div></a>
                       <div class="carousel-caption d-none d-md-block img-font white">
-                          <a class="removestyles" href="1stblog.php"><h3 style="margin: 0 !important;"class="headline-hover">TNC Predator Bagged a Win in China</h3></a>
-                          <p>Feb 05, 2020</p>
-                          <h6 class="gray">A win from TNC Predator, beating Vici Gaming in the Grand Finals with a strong 3-1 win in the series. They took home $135,000 USD kicking off 2020.</h6>
+                          <a class="removestyles" href="1stblog.php"><h3 style="margin: 0 !important;"class="headline-hover">A Look Back to the Former Major Champion - TNC Predator</h3></a>
+                          <p>May 25, 2020</p>
+                          <h6 class="gray">Last year, TNC Predator came out on top in the first Dota Pro Circuit Major of the season, the MDL Chengdu Major.</h6>
                       </div>
                     </div>
+
                     <div class="carousel-item img-fluid">
-                      <img class="d-block w-100 blur" src="assets/bg8.jpg" alt="Second slide">
-                    </div>
-                    <div class="carousel-item img-fluid">
-                      <img class="d-block w-100 blur" src="assets/pink.jpg" alt="Third slide">
+                      <a class="removestyles" href="2ndblog.php"><div class="d-block w-100 blur-1"  style="cursor: pointer;"></div></a>
+                      <div class="carousel-caption d-none d-md-block img-font white">
+                          <a class="removestyles" href="2ndblog.php"><h3 style="margin: 0 !important;"class="headline-hover">Valve Launches Battle Pass 2020</h3></a>
+                          <p>May 25, 2020</p>
+                          <h6 class="gray">After a long wait, Valve released The International 10 Battle Pass today.</h6>
+                      </div>
                     </div>
                   </div>
                   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

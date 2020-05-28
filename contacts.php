@@ -92,7 +92,7 @@
 
               <fieldset>
                 <legend>Contact Info</legend>
-                <p>Are you ready to discuss your content marketing needs? Contact me via email at aamagantal@gmail.com or using the form below to find out how I can help your business.</p>
+                <p>Do you have any inquiries or need help for something? Contact me via email at aamagantal@gmail.com or using the form below to find out how I can help you.</p>
 
                 <br />
 

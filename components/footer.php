@@ -6,7 +6,7 @@
          </div>
          <div class="row">
              <div class="col-6 mx-auto">
-                   <p class="fonts contact-desc" style=" padding-bottom: 0.5vw; padding-top: 1vw;">To get in touch with me regarding media inquiries: Email aamagantal@gmail.com This site is somehow both simple yet visually striking and will make you say</p>
+                   <p class="fonts contact-desc" style=" padding-bottom: 0.5vw; padding-top: 1vw;">To get in touch with me regarding media inquiries: <br/> Email aamagantal@gmail.com <br/> You can also message me in the contact menu for a formal and detailed inquiry</p>
              </div>
          </div>
          <div class="row">

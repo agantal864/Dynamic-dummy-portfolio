@@ -23,7 +23,7 @@
           </div>
           <div class="row">
               <div class="col-3 abt"><p class="fonts">ABOUT ME</p></div>
-              <div class="col-9 abt-2"><p class="fonts">This site is somehow both simple yet visually striking and will make you say “wow” as soon as you land on it. Essentially a fancy online resume, this site does an especially good job of incorporating graphics and images in a super classy way. We especially like the “why me” section that summarizes Wiktor’s greatest attributes.</p></div>
+              <div class="col-9 abt-2"><p class="fonts">Hi, I am an incoming sophomore at the University of the Philippines. I am currently studying Computer Science and planning to major in software technology. I love web development, especially the back end side. I prefer individual work, but working in a team is also exciting. I always try to be productive by learning new things.</p></div>
           </div>
           <div class="row">
             <div class="col-12 details-title">
@@ -71,8 +71,8 @@
                     <p class="fonts" style="padding: 0.50vw;">Aug 2019 - Present</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Bachelor of Science in Computer Science</p>
+                    <p class="fonts" style="color: white;">I am currently studying at the University of the Philippines for my undergraduate degree. I have learned the fundamental part of computer science, discrete mathematical structures, basic algorithms, and web development.</p>
                   </div>
                 </div>
                 <div class="row expr">
@@ -81,8 +81,8 @@
                     <p class="fonts" style="padding: 0.50vw;">May 2020 - Present</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">Web Programming with Python and Javascript</p>
+                    <p class="fonts" style="color: white;">I enrolled in this course to widen my knowledge in web development by using Python instead of PHP. I am currently focusing on Flask, the web framework written in Python.</p>
                   </div>
                 </div>
                 <div class="row expr">
@@ -91,8 +91,8 @@
                     <p class="fonts" style="padding: 0.50vw;">June 2017 - March 2019</p>
                   </div>
                   <div class="col 8">
-                    <p class="fonts title-style" style="color: white; font-weight: bold;">Course - Gamification (course)</p>
-                    <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges. This course thought me about the mechanisms of gamification, why it has such tremendous potential, and how to use it effectively.</p>
+                    <p class="fonts title-style" style="color: white; font-weight: bold;">STEM Pre-Computer Studies</p>
+                    <p class="fonts" style="color: white;">I graduated in this institution in the academic strand of STEM Pre-Computer Studies. In my last year of High School, I realized my real passion for software development.</p>
                   </div>
                 </div>
 
@@ -106,21 +106,21 @@
                             <div class="row expr">
                               <div class="col-4 expr-2">
                                 <p class="fonts title-style" style="font-weight: bold;">University Scholar</p>
-                                <p class="fonts" style="padding: 0.50vw;">1st Semester A.Y 2019-2020</p>
+                                <p class="fonts" style="padding: 0.50vw;">December 2019 (1st Semester)</p>
                               </div>
                               <div class="col 8">
                                 <p class="fonts title-style" style="color: white; font-weight: bold;">University of the Philippines</p>
-                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                                <p class="fonts" style="color: white;">An honorific Scholarship that an undergraduate student obtains with an absolute minimum weighted average of 1.45 or better.</p>
                               </div>
                             </div>
                             <div class="row expr">
                               <div class="col-4 expr-2">
-                                <p class="fonts title-style" style="font-weight: bold;">Strand Excellence Award</p>
+                                <p class="fonts title-style" style="font-weight: bold;">Strand Excellence Award (Pre-Computer Studies)</p>
                                 <p class="fonts" style="padding: 0.50vw;">April 2019</p>
                               </div>
                               <div class="col 8">
                                 <p class="fonts title-style" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
-                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                                <p class="fonts" style="color: white;">An award given to an exceptional student who has the highest average grade in his/her respective strand.</p>
                               </div>
                             </div>
                             <div class="row expr">
@@ -130,7 +130,7 @@
                               </div>
                               <div class="col 8">
                                 <p class="fonts title-style" style="color: white; font-weight: bold;">Ateneo de Davao University</p>
-                                <p class="fonts" style="color: white;">Gamification is the application of game elements and digital game design techniques to non-game problems, such as business and social impact challenges.</p>
+                                <p class="fonts" style="color: white;">An award given to a group of students who have the best Quantitative/Qualitative research in their respective strand.</p>
                               </div>
                             </div>
                           </div>

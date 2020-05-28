@@ -3,7 +3,7 @@
   <?php
     include('blog-header.php');
     include('config/db_connect.php');
-    include('config/db_comment.php');
+    include('config/db_comment-2.php');
   ?>
 
   <div class="fluid-container" id="browse">
@@ -17,24 +17,17 @@
     <div class="container fonts">
       <div class="row">
          <div class="col-10 mx-auto blog-box" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-            <h1><strong>A Look Back to the Former Major Champion - TNC Predator</strong></h1>
-            <small>By Azis Agantal on May 25, 2020, 1:01 PM</small>
+            <h1><strong>Valve Launches Battle Pass 2020</strong></h1>
+            <small>By Azis Agantal on May 25, 2020, 10:13 PM</small>
             <br/><br/><br/>
             <figure>
-              <img class="sub-img-blog" src="assets/tnc.jpg" alt="tnc">
-              <figcaption class="center"><small>Image from Mars Media</small></figcaption>
+              <img class="sub-img-blog" src="assets/bp.jpg" alt="bp">
+              <figcaption class="center"><small>Image from Valve</small></figcaption>
             </figure>
             <br/>
-            <p>Last year, TNC Predator came out on top in the first Dota Pro Circuit Major of the season, the MDL Chengdu Major. They surprisingly took down Vici Gaming 3-1, the team that defeated them in the upper bracket finals. Their relentless pressure and map control throughout the series earned them their first major win. Also, they were already on a hot streak by winning the $300,000 ESL One Hamburg tournament.</p>
-            <p>Filipino fans like me were fascinated by the performance of their new roster. They brought another glory and recognition to the region as a representative of Southeast Asia. After the debut of the event, different opinions arose, where some critics would say that they won because of tier-one teams like OG, PSG LGD, and Secret withdrew from the tournament. However, there were some notable teams like Vici Gaming, Fnatic, and Evil Geniuses that were expected by their fans to win.</p>
-            <p>Today, TNC Predator was eliminated from the ongoing ESL One Birmingham SEA after losing eight times in a row in the group stages. They managed to win a series to Reality Rift 3-1 with a close fight in game three. To this day, they are still struggling to keep up with the meta after the Outlanders update. Some fans were disappointed by their inconsistent results even after acquiring Febby, one of the best Southeast Asian position four players, as a coach to their team.</p>
-            <br />
-            <figure>
-              <img class="sub-img-blog" src="assets/febby.jpg" alt="tnc">
-              <figcaption class="center"><small>Image from TNC Pro Team Page</small></figcaption>
-            </figure>
-            <br/>
-            <p>It seems that this significant downhill is just a major setback to their actual goal, the International 10. Some fans are already demanding them to change their roster because they have not been showing any consistency lately. For me, I hope that there won't be any changes to their line up not because they virtually confirmed a spot in TI 10 but because I still believe in their form. From Armel's versatility, Kpii's ability to give space, Gabbi's aggressiveness, Tims' clutch      plays, and March's draft, I still think that a little tweak and positivity would bring the formidable TNC once again. </p>
+            <p>After a long wait, Valve released The International 10 Battle Pass today. They added numerous features like guilds, battle gauntlet, and bounty killing bonuses. The most notable rewards awaiting you would be the Pudge and Anti-Mage Personas, and the three Arcana items for Wraith King, Queen of Pain, and Windranger. However, these rewards are not easy to acquire, especially when you are starting from a level one battle pass. Even after playing 3-5 games every day for three months, you would likely be able to reach at most 200 levels. To acquire the first arcana item, you would need to make it to level 375. It may be a marketing strategy for Valve to entice their customers to buy more levels. Yet, there is nothing to lose if you don't want to experience some new cosmetics, animations, and effects since Valve offers Dota 2 as free to play. </p>
+            <p>Despite the competition being delayed next year, it is indefinite as to when the battle pass ends. With sheer determination, you may be able to reach breakeven if you capitalize on the features that offer battle points.</p>
+            <p>For me, the Guild system is the most exciting feature in the new battle pass update. It lets you earn rewards for yourself by completing contracts or with your guild members by finishing guild challenges collectively. What I like most about Guilds is the tag name being shown during in-game matches that distinguishes itself from others. It also offers rewards by leveling up your guild through queuing matches that earn Guild points.  </p>
             <br />
             <div class="share">
                   <a href="#"><i class="fab fa-facebook-square fa-2x" style="color:#3b5998;"></i></a>
@@ -44,7 +37,7 @@
                   <a href=""><i class="far fa-envelope left fa-2x icon"></i></a>
             </div>
             <br />
-              <p><strong>Tags:</strong> #MDLChengdu #TNC #Dota-Pro-Circuit</p>
+              <p><strong>Tags:</strong> #Battlepass2020 #Arcana #Guilds</p>
           </div>
       </div>
 

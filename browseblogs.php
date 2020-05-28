@@ -12,14 +12,31 @@
           </div>
           <div class="row">
               <div class="col-7 mx-auto center box blog-subhead">
-                    <a href="1stblog.php"><h1 class="white headline-hover">TNC Predator Bagged<br/> a Win in China</h1></a>
-                    <p>Feb 6, 2020</p>
-                    <h6>A win from TNC Predator, beating Vici Gaming in the Grand Finals  with a strong <br /> 3-1 win in the series. They took home $135,000 USD kicking off 2020.</h6>
+                    <a href="1stblog.php"><h1 class="white headline-hover">A Look Back to the Former Major <br/>Champion - TNC Predator</h1></a>
+                    <p>May 25, 2020</p>
+                    <h6>Last year, TNC Predator came out on top in the first Dota Pro Circuit Major of the season, the MDL Chengdu Major.</h6>
               </div>
           </div>
       </div>
 
-      <br /><br /><br />
+
+      <div class="container fonts white">
+          <br /><br /><br /><br />
+          <div class="row">
+              <div class="col-7 mx-auto center box" style="border-bottom: 0; padding: 0;">
+                  <a class="removestyle "href="2ndblog.php"><img class="img-responsive sub-img" src="assets/bp.jpg" alt="bp"></a>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col-7 mx-auto center box blog-subhead">
+                    <a href="2ndblog.php"><h1 class="white headline-hover">Valve Launches Battle Pass 2020</h1></a>
+                    <p>May 25, 2020</p>
+                    <h6>After a long wait, Valve released The International 10 Battle Pass today.</h6>
+              </div>
+          </div>
+      </div>
+
+      <br /><br /><br /><br /><br />
 
       <div class="container-fluid ftr">
           <div class="container">
